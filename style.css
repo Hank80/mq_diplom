@@ -1,9 +1,16 @@
 @font-face {
   font-family: OpenSans-Bold;
   src: url(C://MQ_diplom/fonts/OpenSans-Bold.ttf);
-  font-weight: 400;
+  src: url(C://MQ_diplom/fonts/OpenSans-Bold.woff);
+  src: url(C://MQ_diplom/fonts/OpenSans-Bold.woff2);
+  src: url(C://MQ_diplom/fonts/OpenSans-Regular.ttf);
+  src: url(C://MQ_diplom/fonts/OpenSans-Bold.woff);
+  src: url(C://MQ_diplom/fonts/OpenSans-Bold.woff2);
+  font-weight: normal;
   font-style: normal;
 }
+
+
 
 @media (max-width: 320px) {
   body {
@@ -21,7 +28,7 @@
 }
 .page_top::after {
   content: "";
-  background-color: #131232;
+  background-color: #0a0e34;
   opacity: 0.9;
   position: absolute;
   top: 0;
@@ -71,6 +78,10 @@ h1 {
   margin-right: auto;
 }
 
+svg {
+  margin-right: 10px;
+}
+
 a{
   box-sizing: border-box;
   margin-bottom: 15px;
@@ -91,6 +102,26 @@ a:hover {
   background: #786b59;
 }
 
-svg {
-  margin-right: 10px;
+
+.main_page {
+  position: relative;
+  height: 50vh;
+  background-image: url("C:/MQ_diplom/images/footballer_192.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto%;
+  background-color: #ffffff;
+}
+
+h2 {
+  font-family: OpenSans-bold;
+  text-transform: uppercase;
+  font-size: 50px;
+  color: #e7e7e7;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+
 }
