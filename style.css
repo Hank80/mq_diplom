@@ -1,17 +1,17 @@
 @font-face {
   font-family: "OpenSans-Bold";
-  src: url("../MQ_diplom/fonts/OpenSans-Bold.ttf");
-  src: url("../MQ_diplom/fonts/OpenSans-Bold.woff");
-  src: url("../MQ_diplom/fonts/OpenSans-Bold.woff2");
+  src: url("MQdiplom/fonts/OpenSans-Bold.ttf");
+  src: url("MQdiplom/fonts/OpenSans-Bold.woff");
+  src: url("MQdiplom/fonts/OpenSans-Bold.woff2");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "OpenSans-Regular";
-  src: url("../MQ_diplom/fonts/OpenSans-Regular.ttf");
-  src: url("../MQ_diplom/fonts/OpenSans-Regular.woff");
-  src: url("../MQ_diplom/fonts/OpenSans-Regular.woff2");
+  src: url("MQdiplom/fonts/OpenSans-Regular.ttf");
+  src: url("MQdiplom/fonts/OpenSans-Regular.woff");
+  src: url("MQdiplom/fonts/OpenSans-Regular.woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -25,7 +25,7 @@
   position: relative;
   width: 320px;
   min-height: 565px;
-  background-image: url("images/football_767.jpg");
+  background-image: url("MQdiplom/images/football_767.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 135%;
@@ -111,7 +111,7 @@ a:hover {
   position: relative;
   width: 320px;
   height: 520px;
-  background-image: url("../MQ_diplom/images/footballer_192.png");
+  background-image: url("MQdiplom/images/footballer_192.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 70%;
@@ -233,7 +233,7 @@ span.context_2 {
   position: relative;
   width: 320px;
   height: 400px;
-  background-image: url("../MQ_diplom/images/basketballer_302.png");
+  background-image: url("MQdiplom/images/basketballer_302.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -295,7 +295,7 @@ span.context_2 {
   position: relative;
   width: 320px;
   height: 350px;
-  background-image: url("../MQ_diplom/images/be-active_640.jpg");
+  background-image: url("MQdiplom/images/be-active_640.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -363,7 +363,7 @@ h10,h11,h12 {
   position: relative;
   width: 320px;
   height:  350px;
-  background-image: url("../MQ_diplom/images/find-contact_640.jpg");
+  background-image: url("MQdiplom/images/find-contact_640.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -389,7 +389,7 @@ h10,h11,h12 {
   position: relative;
   width: 320px;
   height:  350px;
-  background-image: url("../MQ_diplom/images/work-it_640.jpg");
+  background-image: url("MQ_diplom/images/work-it_640.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -415,7 +415,7 @@ h10,h11,h12 {
   position: relative;
   width: 100%;
   min-height: 565px;
-  background-image: url("../MQ_diplom/images/game_767.jpg");
+  background-image: url("MQ_diplom/images/game_767.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
